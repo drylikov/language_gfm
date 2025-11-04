@@ -23,6 +23,7 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
     * Checked that there is not already an Atom package that provides the described functionality: https://atom.io/packages
 
 
+
 ### Description
 
 [Description of the issue]
