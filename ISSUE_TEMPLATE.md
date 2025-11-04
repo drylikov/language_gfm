@@ -22,6 +22,7 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
     * Checked that your issue isn't already filed: https://github.com/issues?utf8=✓&q=is%3Aissue+user%3Aatom
     * Checked that there is not already an Atom package that provides the described functionality: https://atom.io/packages
 
+
 ### Description
 
 [Description of the issue]
