@@ -16,3 +16,4 @@ git:
 branches:
   only:
     - master
+
